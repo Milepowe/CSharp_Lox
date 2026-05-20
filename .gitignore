@@ -1,4 +1,4 @@
 /.idea
-/obj
-/bin
-/Folder.DotSettings.user
+/src/obj
+/src/bin
+/src/Folder.DotSettings.user
