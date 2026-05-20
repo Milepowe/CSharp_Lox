@@ -1,4 +1,4 @@
-# C#\_Lox
+# C# Lox
 
 The Java lox interpreter but written in C#,
 that is how I decided to follow that wonderful book.  
@@ -13,3 +13,4 @@ will be in a near-finished state.
 
 - [x] Lexer
 - [ ] Parser
+- [ ] Done
